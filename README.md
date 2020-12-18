@@ -1,7 +1,7 @@
-#Readme
+# Readme
 
 This is where I am testing stuff
 
-##subheader
+## subheader
 
 changing some stuff
